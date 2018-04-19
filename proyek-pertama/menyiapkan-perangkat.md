@@ -11,5 +11,5 @@ Untuk menjalankan aplikasi Android yang telah/akan dibuat, dapat menggunakan ked
 
 Sedikit informasi tambahan, AVD bersifat sebagai _emulator_ sedangkan jika kamu membuat aplikasi iOS dan menjalankan iPhone Virtual Device, dia bersifat _simulator_. Perbedaannya dapat dicari tahu sendiri.
 
-Pengaturan ADB Driver bisa dengan menginstall Universal ADB Driver dan mengaktifkan mode developer di telepon genggam Android, dan aktifkan USB Debug
+Pengaturan ADB Driver bisa dengan menginstall Universal ADB Driver atau OEM USB Driver dan mengaktifkan mode developer di telepon genggam Android, dan aktifkan USB Debug
 
