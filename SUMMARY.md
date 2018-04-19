@@ -4,5 +4,7 @@
 * [Perbandingan](perbandingan.md)
 * [Instalasi Android Studio](instalasi-android-studio.md)
 * [Proyek Pertama](proyek-pertama.md)
+  * [Membuat Proyek](proyek-pertama/membuat-proyek.md)
   * [Menyiapkan Perangkat](proyek-pertama/menyiapkan-perangkat.md)
+
 
